@@ -12,7 +12,7 @@ $(document).ready(function(e) {
 			break
 			
 			case 2:
-			navigator.notificacion.vibrate(3000);//vibra el dispositivo
+			navigator.notification.vibrate(3000);//vibra el dispositivo
 			break
 		 }
 		},"aplicacion7","Beepear,Vibrar,Cancelar");
